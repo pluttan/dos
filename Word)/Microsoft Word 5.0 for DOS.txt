@@ -1,0 +1,14 @@
+Microsoft Word 5.0 for DOS
+Released in 1989 by Microsoft
+For DOS and OS/2 1.x console mode
+
+Word 5 for DOS defaults to text video mode operation. To use graphics
+mode, you must setup Word for your graphics card and then specify the
+desired video mode.
+
+Word for DOS 5.x is a dual mode MS-DOS and OS/2 application. It
+supports operation under 16-bit OS/2 1.x console mode.
+
+To install, run setup from the Utilities 1 disk.
+
+Archive includes thirteen 360k 5.25" floppy disk images. 

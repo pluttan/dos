@@ -1,0 +1,9 @@
+Русификация популярной игры от Id Software
+Вам нужно иметь:
+Doom или Doom2
+В папке с Doomом должны быть файлы:
+RUSSIAN.WAD
+RUSSIAN.EXE
+RUNDOOMR.BAT
+Для запуска русифицированной версии запустите RUNDOOMR.BAT
+isa2000@chat.ru
